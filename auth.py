@@ -1,1 +1,1 @@
-ptiny("Git Flow Auth")
+print("Git Flow Auth")
